@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    display: block;
+    font-family: 'Montserrat';
+}
+
+
+header {
+    height: 100vh;
+    background: rgb(2,0,36);
+    background: linear-gradient(309deg, rgba(2,0,36,1) 0%, rgba(56,0,154,1) 0%, rgba(0,20,167,1) 100%);
+}
+
+.logo { 
+    overflow: hidden;
+    margin: 0 15rem 0;
+    color: rgb(0, 146, 214);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.8rem 5rem;
+    font-weight: bold;
+}
+
+.navbar li {
+    display: inline-flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 1.25rem;
+    margin: -0.5rem;
+    color: #fff;
+}
+
+
+.navlogin {
+    margin-right: 15rem;
+    height: 1rem;
+    width: 3.5rem;
+    background: rgb(0, 146, 214);
+    border-radius: 2.5rem;
+}
+
+.headertext {
+    margin: 15rem 20rem;
+    color: white;
+    z-index: 55;
+}
+ 
+.headertitle {
+    font-weight: 500;
+    font-size: 5vh;
+    margin-bottom: 2rem;
+    z-index: 2;
+}
+
+.headertexttwo {
+    font-weight: 400;
+    width: 23vw;
+    z-index: 3;
+}
+
+.trynow {
+    font-weight: 600;
+    color: white;
+    margin: 2rem 0 0;
+    border-style: none;
+    border-radius: 2rem;
+    width: 8rem;
+    height: 3rem;
+    background: rgb(2,0,36);
+    background: linear-gradient(124deg, rgba(2,0,36,1) 0%, rgba(209,11,214,1) 0%, rgba(255,141,0,1) 100%);
+}
+
+.vector {
+    position: absolute;
+    right: 15%;
+    bottom: 8%;
+    z-index: 1;
+}
+
+.path {
+
+    position: absolute;
+    left: -15%;
+    top: 10rem;
+}
+.pathtwo {
+    position: absolute;
+    left: -15%;
+}

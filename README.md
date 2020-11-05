@@ -13,7 +13,8 @@ No hej! <img src="hand.gif" width="50" height="50"/>
 
 📊 Tyle czasu spędziłem na technologie w tym tygodniu:
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NopereKQ&hide_title=true&hide_border=true&langs_count=5)
+[!NopereKQ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NopereKQ)](https://github.com/anuraghazra/github-readme-stats)
+
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 

@@ -1,26 +1,5 @@
-<img src="readme_header.png">
 
-No hej! <img src="hand.gif" width="50" height="50"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-    
-🌱 Obecnie jestem Junior Front-End Developerem.
-💬 Zapytaj mnie o wszystko związane z HTML / CSS / JavaScript
-📫 Skontaktuj się ze mną pod tym mailem: noperekq@gmail.com
-    
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-📊 Tyle czasu spędziłem na technologie w tym tygodniu:
-
-[!NopereKQ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NopereKQ)](https://github.com/anuraghazra/github-readme-stats)
-
-
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-### Technologie
-
-[![Code HTML5](https://img.shields.io/badge/code-HTML5-blueviolet.svg)](https://www.w3.org/TR/html5/)
-[![Code CSS3](https://img.shields.io/badge/code-CSS3-blueviolet.svg)](http://www.w3schools.com/css/css3_intro.asp)
-[![Code JS](https://img.shields.io/badge/code-JS-blueviolet.svg)](http://www.w3schools.com/js/)
-[![Desgin Responsive](https://img.shields.io/badge/design-Responsive-blueviolet.svg)](http://www.w3schools.com/html/html_responsive.asp)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noperekq&show_icons=true&locale=en" alt="noperekq" /></p>

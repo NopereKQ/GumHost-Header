@@ -18,6 +18,6 @@
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<h3 align="left">📊 Tyle czasu spędziłem na technologie w tym tygodniu:</h3>
+<h3 align="left">📊 Statystyki GitHub:</h3>
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=noperekq&show_icons=true&locale=en" alt="noperekq" /></p>

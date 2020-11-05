@@ -1,5 +1,5 @@
-<h1 align="center">Jestem 👋 Piotrek</h1>
-<h3 align="center">Może na początek coś o mnie ;)</h3>
+<h1>Hej jestem 👋 Piotrek</h1>
+<h3>Może na początek coś o mnie ;)</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
